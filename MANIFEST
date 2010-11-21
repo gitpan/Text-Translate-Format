@@ -1,0 +1,15 @@
+Changes
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+lib/Text/Translate/Format.pm
+lib/Text/Translate/Format/Pod.pm
+lib/Text/Translate/Format/Simple.pm
+t/00-load.t
+t/01-simple.t
+t/02-pod.t
+t/03-unknown.t
+t/pod-coverage.t
+t/pod.t
